@@ -7,9 +7,6 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * August 2020 Semester 2 @ AUT
- * Data Structures and Algorithms: Assignment 1
- * Question 1: Zombie Simulator
  * 
  * This class creates Human objects as threads for the Zombie Simulator. Humans are twice the speed of
  * zombies and can only see 1/4 of the world around them. If a zombie in sight the human will change
@@ -17,9 +14,8 @@ import java.util.Random;
  * If there are no zombies within a human's (limited) sight (or if there are no zombies existing at all) 
  * then the human will move around randomly.
  * 
- * If a human (or zombie)
  * 
- * @author Megan ghq8692
+ * @author MYWT August 2020
  */
 public class Human implements Runnable {
     // Movement is represented as delta of x and y (dx and dy)

@@ -7,9 +7,6 @@ import java.util.ArrayList;
 import javax.swing.*;
 
 /**
- * August 2020 Semester 2 @ AUT
- * Data Structures and Algorithms: Assignment 1
- * Question 1: Zombie Simulator
  * 
  * This class maintains the GUI for the Zombie Simulator and includes a main driver method to
  * execute the program. 
@@ -22,7 +19,7 @@ import javax.swing.*;
  * of humans and re-instantiates the object as a zombie thread starting from the same location to
  * represent a human turning into a zombie. 
  * 
- * @author Megan ghq8692
+ * @author MYWT August 2020
  */
 public class MainGUI extends JPanel implements ActionListener {
     
