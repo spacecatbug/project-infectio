@@ -1,3 +1,7 @@
-# Human Zombie Simulator
+# Project Infectio
 
-An exercise in data algorithms which uses multiple threads to simulate zombies chasing humans, and humans being infected into new zombies in a GUI, written in Java.
+I've created this simulation using multithreading, event listeners, distance vectors and direction vectors.
+
+![link to demo video](https://gitlab.com/spacecatbug/human-zombie-simulator/-/raw/master/Demo.gif)
+
+Credit goes to my lecturer Seth Hall for assigning this fun coding problem to our class!
